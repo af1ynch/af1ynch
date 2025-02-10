@@ -23,6 +23,9 @@
 <div align="center">
   <img src="https://github.com/demartini/demartini/blob/master/code.gif">
 </div>
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=af1ynch&count_private=true&show_icons=true&theme=highcontrast">
+</div> -->
+<hr>
 
-
-<!-- ![Visitor Count](https://profile-counter.glitch.me/af1ynch/count.svg) -->
+![Visitor Count](https://profile-counter.glitch.me/af1ynch/count.svg)
